@@ -1,4 +1,5 @@
 // Binary Representation of a Number
+// n = 7;
 
 let n = 17;
 let arr = [];
